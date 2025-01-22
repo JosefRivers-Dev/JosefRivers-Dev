@@ -1,0 +1,3 @@
+usuario1,correo@ejemplo1,contraseña1
+usuario2,correo@ejemplo2,contraseña2
+usuario3,correo@ejemplo3,contraseña3
