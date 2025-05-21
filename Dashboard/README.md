@@ -35,7 +35,7 @@ Este repositorio contiene una colección de archivos Power BI (.pbix) diseñados
 
 <a><img src="https://github.com/user-attachments/assets/3626741e-c64c-4815-87a2-48099c46819c" width="600px" height="300px"/></a>&nbsp;&nbsp;
 
-#### 1. **KPI's RALE.pbix**
+#### 2. **KPI's RALE.pbix**
 <a><img src="https://github.com/user-attachments/assets/73487783-9ff3-4559-8147-29407f952434" width="600px" height="300px"/></a>&nbsp;&nbsp;
 
 <a><img src="https://github.com/user-attachments/assets/21bbb4df-fa8e-455f-95f8-60054366bc30" width="600px" height="300px"/></a>&nbsp;&nbsp;
@@ -45,7 +45,7 @@ Este repositorio contiene una colección de archivos Power BI (.pbix) diseñados
 
 <a><img src="https://github.com/user-attachments/assets/29c2a981-dc43-4530-b7ea-311cace62651" width="600px" height="300px"/></a>&nbsp;&nbsp;
 
-#### 3. **Venta Nuevos Mayoreo**
+#### 4. **Venta Nuevos Mayoreo**
 <a><img src="https://github.com/user-attachments/assets/36df9d6f-330d-433c-b5d5-4e74bc2b3cab" width="600px" height="300px"/></a>&nbsp;&nbsp;
 
 <a><img src="https://github.com/user-attachments/assets/a2e06af4-7532-4a18-b30a-88794a7aa0f2" width="600px" height="300px"/></a>&nbsp;&nbsp;
