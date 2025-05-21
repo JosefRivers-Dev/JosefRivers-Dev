@@ -1,0 +1,3 @@
+SELECT OITW.ItemCode, ItemName, OITW.AvgPrice 
+FROM OITW INNER JOIN OITM ON OITW.ItemCode = OITM.ItemCode
+WHERE WhsCode = 'ALPM'

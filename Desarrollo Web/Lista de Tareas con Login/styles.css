@@ -1,0 +1,248 @@
+/* Estilos generales */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f9f9f9;
+}
+
+.container {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para la pantalla de inicio de sesión */
+
+#login-container {
+  text-align: center;
+}
+
+.login-form {
+  width: 300px;
+  margin: 40px auto;
+}
+
+.login-form h1 {
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.form-group input[type="text"],
+.form-group input[type="password"] {
+  width: 100%;
+  height: 40px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+button[type="submit"] {
+  width: 100%;
+  height: 40px;
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #3e8e41;
+}
+
+/* Estilos para la pantalla de tareas */
+
+.tarea-bloque {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 20px;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.tarea-bloque .estado-bloque {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.tarea-bloque .estado-bloque.realizado {
+  background-color: #C6F4D6;
+}
+
+.tarea-bloque .estado-bloque.pendiente {
+  background-color: #F7C6C6;
+}
+
+.tarea-bloque .estado-bloque.en-proceso {
+  background-color: #F2F2C6;
+}
+
+.tarea-bloque .informacion-tarea {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.tarea-bloque .informacion-tarea h2 {
+  margin-top: 0;
+}
+
+.tarea-bloque .informacion-tarea p {
+  margin-bottom: 10px;
+}
+
+.tarea-bloque .acciones-tarea {
+  margin-left: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.tarea-bloque .acciones-tarea .boton-editar {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.tarea-bloque .acciones-tarea .boton-editar:hover {
+  background-color: #3e8e41;
+}
+
+.detalle-tarea-vista {
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.detalle-tarea-vista h2 {
+  margin-top: 0;
+}
+
+.detalle-tarea-vista p {
+  margin-bottom: 20px;
+}
+
+.detalle-tarea-vista form {
+  margin-top: 20px;
+}
+
+.detalle-tarea-vista label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.detalle-tarea-vista input[type="text"], .detalle-tarea-vista textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+}
+
+.detalle-tarea-vista select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+}
+
+.detalle-tarea-vista button[type="button"] {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.detalle-tarea-vista button[type="button"]:hover {
+  background-color: #3e8e41;
+}
+
+/* Estilos para la pantalla deetalle de tareas */
+
+
+
+
+
+.detalle-tarea-descripcion, .detalle-tarea-estado {
+  display: inline-block;
+  vertical-align: auto;
+  text-align: center;
+}
+
+
+.detalle-tarea-descripcion {
+  width: 49%;
+  text-align: center;
+  border: 1px solid #4CAF50;
+  padding: 1px;
+}
+
+.detalle-tarea-estado {
+  width: 49%;
+  text-align: center;
+  border: 1px solid #4CAF50;
+  padding: 1px;
+}
+
+.detalle-tarea-comentario {
+  margin-top: 20px;
+  text-align: center;
+  padding: 1px;
+}
+
+.boton-verde-guardar {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+  margin-top: 5px;
+}
+
+.boton-verde-regresar {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+  margin-top: 5px;
+}
+
+.boton-verde:hover {
+  background-color: #3e8e41;
+}

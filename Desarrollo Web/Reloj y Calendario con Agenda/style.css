@@ -1,0 +1,75 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 10;
+    background-color: #000000;
+    color: #00ff00;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.reloj {
+    text-align: center;
+    background-color: #1a1a1a;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 255, 0, 0.5);
+    margin-bottom: 20px;
+}
+
+#hora {
+    font-size: 4rem;
+    letter-spacing: 3px;
+}
+
+#fecha {
+    font-size: 1.5rem;
+    margin-top: 10px;
+    color: #00cc00;
+}
+
+.calendario {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.dia {
+    background-color: #1a1a1a;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
+    text-align: center;
+    width: 150px;
+}
+
+.dia h3 {
+    margin: 0 0 10px 0;
+}
+
+.tarea {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    background-color: #000000;
+    border: 1px solid #00ff00;
+    color: #00ff00;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.completada {
+    background-color: #00ff00;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.completada:hover {
+    background-color: #00cc00;
+}

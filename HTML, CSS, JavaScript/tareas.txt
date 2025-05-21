@@ -1,3 +1,0 @@
-Casa,Limpiar,pendiente,Tener todas las herramientas listas
-Jardin,Ordenar,en-proceso,Etapa de limpieza y ordenamiento
-Estacionamiento,Recoger,realizado,todo listo en tiempo y firma sin pendientes
