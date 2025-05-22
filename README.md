@@ -138,10 +138,6 @@
 	<a href="https://discord.gg/Qtanxbvu"><img src = "https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" width="50px" height="50px"></a>
 	<a href="https://github.com/JosefRivers-Dev"><img src="https://img.icons8.com/?size=100&id=62856&format=png&color=ffffff" width="50px" height="50px"/></a>
 	<a href="https://www.linkedin.com/in/josef-rivera-b78108217"><img src="https://img.icons8.com/?size=100&id=114445&format=png&color=000000" width="50px" height="50px"/></a>
-	<a href="Instagram"><img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="50px" height="50px"/></a>
-	<a href="Facebook"><img src="https://img.icons8.com/?size=100&id=114441&format=png&color=000000" width="50px" height="50px"/></a>
-  	<a href="Tiktok"><img src="https://img.icons8.com/?size=100&id=118640&format=png&color=000000" width="50px" height="50px"/></a>
-	<a href="Outlook"><img src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" width="50px" height="50px"/></a>
 </p>
 
 -------------------
