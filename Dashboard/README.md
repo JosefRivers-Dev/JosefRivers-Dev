@@ -1,6 +1,6 @@
-# Análisis de Ventas y Reportes
+# Reportes Dashboard
 
-Este repositorio contiene una colección de archivos Power BI (.pbix) diseñados para el análisis de ventas y generación de reportes para diferentes áreas de negocio.
+Este repositorio contiene una colección de archivos Power BI (.pbix) diseñados para reportar KPI's clavez de cada aria de negocio, realizando analisis para diferentes áreas de negocio, poder canalizar todo el avance de una manera mas visual y poder tomar mejores deciciones del negocio o proyecto.
 
 ## Archivos disponibles:
 
