@@ -1,8 +1,8 @@
-# SAP Business One SQL Queries Repository
+# Reporte de Queries
 
 ![SAP](https://img.shields.io/badge/SAP-Business%20One-blue) ![SQL](https://img.shields.io/badge/SQL-Queries-green) ![Database](https://img.shields.io/badge/Database-Operations-yellow)
 
-Colección de consultas SQL útiles para SAP Business One que cubren diversas áreas funcionales de negocio.
+Queries aplicados en el negocio para poder obtimizar algunas formas de trabajo, que con el tiempo ayudo a que se convirtieran en flujos de trabajo, para una mejor distribucion de la informacion para el poryecto o negoció.
 
 ## Consultas Disponibles
 
