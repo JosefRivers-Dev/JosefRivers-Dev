@@ -2,6 +2,10 @@
 
 Este repositorio contiene una colección de archivos Power BI (.pbix) diseñados para reportar KPI's clavez de cada aria de negocio, realizando analisis para diferentes áreas de negocio, poder canalizar todo el avance de una manera mas visual y poder tomar mejores deciciones del negocio o proyecto.
 
+## Desarrollos Detallado
+
+Se puede revisar en cada carpeta donde esta cada desarrollo realizado para ver las funcionalidades y las tecnología implementadas, mejorar realizadas, medidas creadas para una mejor proyeccion de los datos
+
 ## Archivos disponibles:
 
 1. **Alineacion.pbix** - Dashboard de alineación estratégica
@@ -50,12 +54,7 @@ Este repositorio contiene una colección de archivos Power BI (.pbix) diseñados
 
 <a><img src="https://github.com/user-attachments/assets/a2e06af4-7532-4a18-b30a-88794a7aa0f2" width="600px" height="300px"/></a>&nbsp;&nbsp;
 
-## Requisitos:
-- Power BI Desktop (versión recomendada: última disponible)
-- Acceso a las fuentes de datos correspondientes
-
 ## Instrucciones:
 1. Descargar el archivo .pbix deseado
 2. Abrir con Power BI Desktop
-3. Actualizar las conexiones de datos si es necesario
-4. Interactuar con los dashboards y reportes
+3. Interactuar con los dashboards y reportes
