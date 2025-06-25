@@ -4,7 +4,7 @@ Este repositorio contiene una colección de archivos Power BI (.pbix) diseñados
 
 ## Desarrollos Detallado
 
-Se puede revisar en cada carpeta donde esta cada desarrollo realizado para ver las funcionalidades y las tecnología implementadas, mejorar realizadas, medidas creadas para una mejor proyeccion de los datos
+Se puede revisar en cada carpeta donde esta cada desarrollo realizado para ver las funcionalidades Implementadas, mejoras que se realizaron, medidas creadas, tecnología implementadas para una mejor proyeccion de los datos y visializacion
 
 ## Archivos disponibles:
 
